@@ -9,8 +9,8 @@
 
 <div>
   <a href="https://github.com/luiisclaudioo">
-  <img height="180em" src="https://github-readme-status.vercel.app/api?username=luiisclaudioo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-status.vercel.app/api/top-langs/?username=luiisclaudioo&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-status.vercel.app/api?username=luiisclaudioo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-status.vercel.app/api/top-langs/?username=luiisclaudioo&layout=compact&langs_count=8&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
