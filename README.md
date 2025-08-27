@@ -1,7 +1,7 @@
 ### Oi! Eu sou o Luis Claudio 👋
 
-- 💻 Hoje trabalho com back-end
-- 📚 Estudando .NET CORE
+- 💻 Hoje trabalho como Desenvolvedor back-end 
+- 📚 Estudando Pós-Graduação em Arquitetura de Sistemas .NET com Azure
 - 🎓 Formado em Analise e Desenvolvimento de Sistema
 - 😄 Pronouns: ele/dele
 
